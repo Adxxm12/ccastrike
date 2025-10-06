@@ -26,8 +26,8 @@
 
 bash
 
-git clone https://github.com/yourusername/commca.git
-cd commca
+git clone https://github.com/Adxxm12/ccastrike.git
+cd ccastrike
 
     Install dependencies
 
